@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @tylovejoy
-- 👀 I’m interested in programming!
-- 🌱 I’m currently learning how to make complex Discord bots!
+Hey! My name is Ty Lovejoy.
+I'm a Software Developer/Designer
+and IT Support Specialist.
 
-<!---
-tylovejoy/tylovejoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+💼 Where or What I am working at/on:
+- I am currently working for [Texas Oncology](https://www.texasoncology.com) as an IT Support Coordinator.
+- Building and maintaining a large custom Discord bot for the Doomfist Parkour community.
+- Striving to become an amazing programmer and build awesome projects with other awesome people!
