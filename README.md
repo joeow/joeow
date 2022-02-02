@@ -18,7 +18,7 @@ and IT Support Specialist.
 💼 Where or What I am working at/on:
 - I am currently working for [Texas Oncology](https://www.texasoncology.com) as an IT Support Coordinator. 🐱‍💻
 - Building and maintaining *doombot*, a large custom Discord bot for the Doomfist Parkour community. 🐍
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tylovejoy&repo=doombot&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tylovejoy&repo=doombot2.0&theme=dark" />
 
 - Maintaining and leading the charge for *acc-bot*, a Discord bot created by [Austin Community College](https://www.austincc.edu) students.
 
