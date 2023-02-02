@@ -24,15 +24,13 @@ and IT Support Specialist.
 
 💼 Where or What I am working at/on:
 - I am currently working for [Texas Oncology](https://www.texasoncology.com) as an IT Support Coordinator. 🐱‍💻
+
 - Building and maintaining *doombot*, a large custom Discord bot for the Doomfist Parkour community. 🐍
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tylovejoy&repo=doom3&theme=dark" />
-
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tylovejoy&repo=doom3&theme=dark" /> -->
 - Building and maintaining *genjibot*, a large custom Discord bot for the Genji Parkour community. ⚔️
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tylovejoy&repo=genjibot&theme=dark" />
-
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tylovejoy&repo=genjibot&theme=dark" /> -->
 - Rewrote and currently maintaining *Genji Parkour Editor/Framework* alongside [@FishoFire](https://github.com/FishoFire)
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nebulaOW&repo=genji-framework&theme=dark" />
-
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nebulaOW&repo=genji-framework&theme=dark" /> -->
 - Created *acc-bot*, a Discord bot to be used by [Austin Community College](https://www.austincc.edu) students.
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tylovejoy&repo=acc-bot&theme=dark" />
-
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tylovejoy&repo=acc-bot&theme=dark" /> -->
+Check the pinned repos below!
